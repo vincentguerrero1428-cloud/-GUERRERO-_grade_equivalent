@@ -1,2 +1,2 @@
-# -GUERRERO-_grade_equivalent
+# GUERRERO-_grade_equivalent
 Grading system
